@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap&subset=cyrillic-ext');
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../Fonts/Gilroy-MediumItalic.woff2') format('woff2'),
+        url('../Fonts/Gilroy-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+html{
+  font-size: 30px;
+}
+
+
+.titl{
+  font-family: "Poppins";
+  font-weight: 600;
+  font-style:italic ;
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+
+div.mt{
+  font-family: Girloy;
+  font-weight: 600;
+  font-style: italic;
+}
+
+#nenere{
+  color: darkred;
+  text-shadow: 5px 5px 2px #999;
+  text-align:  left;
+}
+
+.poizd{
+  text-align: center;
+}
+
+#pat{
+  text-transform: uppercase;
+  color: red;
+  text-decoration: underline;
+}
+
+div.sm{
+  text-align: right;
+}
+
+
+.sasa{
+  font-weight: 1000;
+}
+
+#logo{
+  color: darkred;
+}
+
+.logopa{
+  text-decoration: none;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-style:italic ;
+  text-align: center;
+}
